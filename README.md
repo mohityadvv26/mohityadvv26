@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohityadvv26
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language.
+- 🌱 I have knowledge of C/C++, HTML,CSS,JS,PHP,MYSQL,PLSQL and Data Structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me through gmail: mohityadavhr36@gmail.com
 
