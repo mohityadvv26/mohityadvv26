@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mohityadvv26
-- 👀 I’m interested in coding
-- 🌱 I have knowledge of C/C++, HTML,CSS,JS,PHP,MYSQL,PLSQL and Data Structure
-- 💞️ I’m looking to collaborate on ...
+- 🌱Learning C++, HTML , CSS , JavaScript.
+- 🌱 Creating MERN stack projects
+- 👯 Looking to freelance and collaborate on Open Source Projects.
+- 💬 Ask me about what I've learned recently.
 - 📫 you can reach me through gmail: mohityadavhr36@gmail.com
 
 <!---
